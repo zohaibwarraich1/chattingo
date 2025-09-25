@@ -1,4 +1,4 @@
-# 🚀 Chattingo - Mini Hackathon Challenge
+# 🚀 Chattingo-App - Mini Hackathon Challenge
 
 A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. **Your mission**: Containerize application using Docker and deploy it to Hostinger VPS using Jenkins CI/CD pipeline.   
 
